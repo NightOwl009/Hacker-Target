@@ -3,6 +3,6 @@
 ### This Tool Have All The Information Gathering Scans
 
 # Types Of Scanning Included In This Tool:
-     * DNS Lookup
+     <h4>* DNS Lookup
      * Reverse DNS Lookup
      * GeoIP Lookup
