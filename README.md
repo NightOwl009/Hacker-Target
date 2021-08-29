@@ -23,6 +23,9 @@
 * `cd Hacker-Target`
 * `python hacker-target.py`
 
+## Usage
+<p align="center">
+	<img src="https://github.com/NightOwl009/Hacker-Target/blob/main/scan.jpg?raw=true">
 
 
 ## Thank You Very Much
