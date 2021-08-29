@@ -15,4 +15,12 @@
      [+] Host Serach
 
 
+## INSTALLATION
+* `apt-get install python -y`
+* `apt-get install git -y`
+* `git clone https://github.com/NightOwl009/Hacker-Target`
+* `cd Hacker-Target`
+* `python hacker-target.py`
+
+
 
