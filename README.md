@@ -1,7 +1,6 @@
 # Hacker-Target
 <p align="center">
-	<img src="https://raw.githubusercontent.com/NightOwl009/Hacker-Target/main/Screenshot_20210829-135109_Termux.jpg" width="800px">
-</p>
+	<img src="https://raw.githubusercontent.com/NightOwl009/Hacker-Target/main/Screenshot_20210829-135109_Termux.jpg"> 
 
 ### By Night-Owl
 
